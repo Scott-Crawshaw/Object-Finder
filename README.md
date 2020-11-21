@@ -7,7 +7,7 @@ If the user is unsatisfied with the app's automated help system, they can call u
 Feel free to clone the project or [download the apk](eyespy.apk).
 
 # Creators
-Joe Zhang
-Madeleine Généreux
-Scott Crawshaw
+Joe Zhang  
+Madeleine Généreux  
+Scott Crawshaw  
 Aadhya Kocha
