@@ -13,4 +13,4 @@ Scott Crawshaw
 Aadhya Kocha
 
 # Class
-This project was for the Smartphone Programming class at Dartmouth College
+This project was for the Smartphone Programming class at Dartmouth College.
